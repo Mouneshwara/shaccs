@@ -1,0 +1,14 @@
+[19-Sep-2018 13:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/xg75449lngip/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xg75449lngip/public_html/wp-includes/locale.php on line 10
+[19-Nov-2018 20:29:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home/xg75449lngip/public_html/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/xg75449lngip/public_html/wp-includes/template-loader.php on line 28
+[01-Dec-2018 01:37:24 UTC] PHP Fatal error:  Class 'Walker' not found in /home/xg75449lngip/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[01-Feb-2019 07:56:54 UTC] PHP Fatal error:  Class 'Walker' not found in /home/xg75449lngip/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Feb-2019 12:55:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/xg75449lngip/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xg75449lngip/public_html/wp-includes/locale.php on line 10
